@@ -89,3 +89,7 @@ http://localhost:8000
 ```
 docker ps
 ```
+
+```
+docker compose exec web pwd
+```
