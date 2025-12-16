@@ -86,3 +86,6 @@ docker compose ps
 ```
 http://localhost:8000
 ```
+```
+docker ps
+```
