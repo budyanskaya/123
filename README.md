@@ -82,3 +82,7 @@ docker compose up -d
 ```
 docker compose ps
 ```
+
+```
+http://localhost:8000
+```
